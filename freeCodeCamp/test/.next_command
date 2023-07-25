@@ -407,3 +407,4 @@ __vsc_prompt_cmd_original
 ls --color=auto
 rm -r fonts/
 ls --color=auto
+touch package.json

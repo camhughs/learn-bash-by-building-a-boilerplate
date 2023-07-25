@@ -439,3 +439,44 @@ find website-boilerplate/
 clear
 echo goodbye terminal
 exit
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+echo -n 90f70576-b83a-4b14-bd41-4fc782baa771
+cat /proc/self/environ
+echo -n 90f70576-b83a-4b14-bd41-4fc782baa771
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+echo -n ea1670da-de7f-449d-9eb1-78f25d556e8d
+cat /proc/self/environ
+echo -n ea1670da-de7f-449d-9eb1-78f25d556e8d
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/vscode/vscode-server/bin/linux-x64/74f6148eb9ea00507ec113ec51c489d6ffb4b771/node' -p '"b88b4c3ff066" + JSON.stringify(process.env) + "b88b4c3ff066"'
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+echo -n 6d102858-0b62-417f-b9b0-d2fac80a5e80
+cat /proc/self/environ
+echo -n 6d102858-0b62-417f-b9b0-d2fac80a5e80
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+echo -n ab796bba-8a6c-4a75-b6ef-bdb51dc26cee
+cat /proc/self/environ
+echo -n ab796bba-8a6c-4a75-b6ef-bdb51dc26cee
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+echo -n 23fae955-5fda-4c03-b849-d8781675048f
+cat /proc/self/environ
+echo -n 23fae955-5fda-4c03-b849-d8781675048f
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+echo -n 087adc5d-8f0a-424c-b41e-7939f789284c
+cat /proc/self/environ
+echo -n 087adc5d-8f0a-424c-b41e-7939f789284c
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/vscode/vscode-server/bin/linux-x64/74f6148eb9ea00507ec113ec51c489d6ffb4b771/node' -p '"acb44f61c43a" + JSON.stringify(process.env) + "acb44f61c43a"'
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+echo -n ce8ecf72-d77a-4fc0-9c28-98da0782baed
+cat /proc/self/environ
+echo -n ce8ecf72-d77a-4fc0-9c28-98da0782baed

@@ -352,3 +352,5 @@ find --help
 __vsc_prompt_cmd_original
 find -name index.html
 find -name styles.css
+find -name menlo.otf
+find -name src

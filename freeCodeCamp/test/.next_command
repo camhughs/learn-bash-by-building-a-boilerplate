@@ -416,3 +416,4 @@ echo I finished the boilerplate!
 ls --color=auto
 find
 echo one more thing...
+echo I made this boilerplate >> README.md

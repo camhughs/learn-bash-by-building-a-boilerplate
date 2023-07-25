@@ -413,3 +413,6 @@ touch README.md
 ls --color=auto
 echo Yay!
 echo I finished the boilerplate!
+ls --color=auto
+find
+echo one more thing...

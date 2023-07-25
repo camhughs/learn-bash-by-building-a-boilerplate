@@ -432,3 +432,6 @@ cp --help
 cp -r website-boilerplate/ toms-website
 ls --color=auto
 ls --color=auto
+find -name toms-website/
+find -name toms-website
+find toms-website/

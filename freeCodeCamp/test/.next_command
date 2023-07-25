@@ -423,3 +423,5 @@ more README.md
 echo for the free CodeCamp bash lessons >> README.md
 echo for the freeCodeCamp bash lessons >> README.md
 more README.md
+nano README.md
+cd ..

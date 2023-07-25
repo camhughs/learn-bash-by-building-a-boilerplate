@@ -355,3 +355,4 @@ find -name styles.css
 find -name menlo.otf
 find -name src
 find
+cd client
